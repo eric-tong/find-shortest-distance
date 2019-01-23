@@ -1,0 +1,14 @@
+{
+  "name": "find-shortest-distance",
+  "version": "1.0.0",
+  "description": "Find shortest distance between car colours",
+  "main": "findShortestDistance.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Eric Tong",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
